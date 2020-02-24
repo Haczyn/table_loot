@@ -4,12 +4,12 @@
             "item": "minecraft:chest"
         },
         "title": {
-            "text": "Vanilla Tweaks",
+            "text": "Vanilla ulepszenia",
             "bold": true,
             "color": "gold"
         },
         "description": {
-            "text": "All currently installed datapacks",
+            "text": "Usprawnienia do vanilli",
             "color": "white",
             "bold": false,
             "italic": true
