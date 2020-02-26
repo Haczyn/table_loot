@@ -31,8 +31,8 @@
         },
         {
           "condition": "random_chance_with_looting",
-          "chance": 0.10,
-          "looting_multiplier": 0.01
+          "chance": 0.001,
+          "looting_multiplier": 0.001
         }
       ]
     }
